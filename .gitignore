@@ -1,0 +1,13 @@
+# Godot generated files
+.godot/
+*.translation
+
+# Export output and local editor data
+exports/
+.import/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*~
+.vscode/
